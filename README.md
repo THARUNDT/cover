@@ -147,7 +147,8 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (4).png>)
+![Screenshot (4)](https://github.com/THARUNDT/cover/assets/144871537/392ef6fe-61f9-478a-8705-07ff88842191)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
